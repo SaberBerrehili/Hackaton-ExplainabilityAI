@@ -5,18 +5,18 @@ This project aims to support HR while making decisions by predicting whether an 
 
 ## Scope :
 Binary classification problem:
-0 → Employee stays
+0 → Employee stays  
 1 → Employee leaves
 
 ## Persona(Users):
--HR Analysts
+-HR Analysts  
 -Data Analysts in HR departments
 
 ## Instructions:
 
--Inputs: Employee data 
--Outputs: Prediction: 0 or 1
--Explanation: Key contributing features 
+-Inputs: Employee data  
+-Outputs: Prediction: 0 or 1  
+-Explanation: Key contributing features  
 
 ### -Steps:
 Prepare the employee dataset in the correct format.
