@@ -4,7 +4,7 @@
 This project aims to support HR while making decisions by predicting whether an employee is likely to leave the company and identify the key factors contributing to that decision.
 
 ## Scope :
-Binary classification problem:
+Binary classification problem:  
 0 → Employee stays  
 1 → Employee leaves
 
