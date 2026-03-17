@@ -19,8 +19,8 @@ Binary classification problem:
 -Explanation: Key contributing features  
 
 ### -Steps:
-Prepare the employee dataset in the correct format.
-Load the trained model.
-Input the dataset to get predictions.
-Review predictions along with feature importance.
-Make decisions only after human validation.
+Prepare the employee dataset in the correct format.  
+Load the trained model.  
+Input the dataset to get predictions.  
+Review predictions along with feature importance.  
+Make decisions only after human validation.  
